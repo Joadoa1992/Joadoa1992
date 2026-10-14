@@ -11,6 +11,8 @@ This is where i made encryption for login in node.js
 server/index.js is where all the encryption happens
 https://github.com/Joadoa1992/mandatory_2
 
+For my final AI & Automation exam, I created a local conversational agent that provides personalized movie recommendations directly through Telegram.
+https://github.com/Joadoa1992/Movie_agent_showcase
 
 
 <!--
