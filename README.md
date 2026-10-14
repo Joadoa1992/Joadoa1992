@@ -7,7 +7,7 @@ https://github.com/Joadoa1992/AgriVision_AI/tree/master
 This is for a small project where we should make a webpage using only one html page and upload it to vercel. This link for the page is https://solopgang2.vercel.app/
 https://github.com/Joadoa1992/sol_opgang/tree/master
 
-This is where i made encryption for login in node.js
+Secure Node.js Authentication API A security-focused Node.js backend built to handle secure registration and login flows.
 server/index.js is where all the encryption happens
 https://github.com/Joadoa1992/mandatory_2
 
