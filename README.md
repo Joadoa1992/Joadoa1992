@@ -1,27 +1,34 @@
-## Hi there 👋
+## Hi there 👋 
 
-AgriVision AI
+I'm a passionate developer currently looking for an internship 
 
-For this project, I built a computer vision pipeline using Ultralytics YOLOv11 and PyTorch to detect and classify plant diseases from images.
-https://github.com/Joadoa1992/AgriVision_AI
+I love working with backend development, automation, and AI technologies. Below are some of my recent projects showcasing what I build.
 
-Sol opgang
+---
 
-Single-Page Vercel Deployment
-For this project, I built a lightweight, single-page web application contained entirely within a single HTML file and deployed it live to Vercel.
-https://github.com/Joadoa1992/sol_opgang
+### 🤖 Movie Agent Showcase
+* **What it is:** A local conversational AI agent built for an AI & automation exam that provides personalized movie recommendations directly through Telegram.
+* **Tech Stack:** Claude Agent, local Ollama LLM, RAG database, n8n workflow, and MCP (Model Context Protocol).
+* 👉 [View Repository](https://github.com/Joadoa1992/Movie_agent_showcase)
 
-Secure node.js
+### 🌿 AgriVision AI
+* **What it is:** A computer vision pipeline designed to detect and classify plant diseases from images.
+* **Tech Stack:** Python, PyTorch, Ultralytics YOLOv11, OpenCV, and Matplotlib.
+* 👉 [View Repository](https://github.com/Joadoa1992/AgriVision_AI)
 
-Secure Node.js Authentication API A security-focused Node.js backend built to handle secure registration and login flows.
-server/index.js is where all the encryption happens
-https://github.com/Joadoa1992/mandatory_2
+### 🔒 Secure Node.js Authentication API
+* **What it is:** A security-focused backend application built to handle secure user registration and login workflows.
+* **Tech Stack:** Node.js, Express, `bcrypt` (password hashing), `jsonwebtoken` (JWT), and automated email notifications.
+* 👉 [View Repository](https://github.com/Joadoa1992/mandatory_2)
 
-Movie agent
+### 🌅 Sol Opgang (Single-Page Web App)
+* **What it is:** A lightweight, minimalist web application contained entirely within a single HTML file and deployed live to the cloud.
+* **Tech Stack:** HTML/CSS, Vercel deployment.
+* 👉 [Live Demo](https://solopgang2.vercel.app/) | 👉 [View Repository](https://github.com/Joadoa1992/sol_opgang)
 
-For my final AI & Automation exam, I created a local conversational agent that provides personalized movie recommendations directly through Telegram.
-https://github.com/Joadoa1992/Movie_agent_showcase
+---
 
-
-<!--
-**Joadoa1992/Joadoa1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Tools
+* **Languages & Frameworks:** JavaScript (Node.js/Express), Python (PyTorch, YOLO)
+* **AI & Automation:** Ollama, Claude, n8n, MCP, RAG
+* **Tools & Deployment:** Git, GitHub, Vercel
