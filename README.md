@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-This is my AgriVision AI. It can see plant diseases from a pictures. The AI is made in AgriVision_AI.py
-https://github.com/Joadoa1992/AgriVision_AI/tree/master
+AgriVision AI
 
+For this project, I built a computer vision pipeline using Ultralytics YOLOv11 and PyTorch to detect and classify plant diseases from images.
+https://github.com/Joadoa1992/AgriVision_AI
 
 Single-Page Vercel Deployment
 For this project, I built a lightweight, single-page web application contained entirely within a single HTML file and deployed it live to Vercel.
