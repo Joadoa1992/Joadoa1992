@@ -4,8 +4,9 @@ This is my AgriVision AI. It can see plant diseases from a pictures. The AI is m
 https://github.com/Joadoa1992/AgriVision_AI/tree/master
 
 
-This is for a small project where we should make a webpage using only one html page and upload it to vercel. This link for the page is https://solopgang2.vercel.app/
-https://github.com/Joadoa1992/sol_opgang/tree/master
+Single-Page Vercel Deployment
+For this project, I built a lightweight, single-page web application contained entirely within a single HTML file and deployed it live to Vercel.
+https://github.com/Joadoa1992/sol_opgang
 
 Secure Node.js Authentication API A security-focused Node.js backend built to handle secure registration and login flows.
 server/index.js is where all the encryption happens
