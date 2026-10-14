@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm a passionate developer currently looking for an internship 
+I'm a passionate developer currently looking for an internship.
 
 I love working with backend development, automation, and AI technologies. Below are some of my recent projects showcasing what I build.
 
